@@ -1,0 +1,50 @@
+OVERVIEW
+A smart home contains devices (lights, doors/locks, thermostat, sensors) controllable via voice, app, or CLI. This knowledge file documents supported devices, locations, example commands, and safety policies.
+
+DEVICES & ACTIONS
+- Light (aliases: lights, lamp, lightbulb)
+  Actions: turn_on, turn_off, dim, get_status
+  Notes: "turn on bedroom lights" -> turn_on light bedroom
+
+- Door (aliases: door, front_door, back_door)
+  Actions: lock, unlock, open, close, get_status
+  Notes: Unlocking or opening doors may require confirmation at night.
+
+- Thermostat (aliases: thermostat, ac, air_conditioner)
+  Actions: set_temperature, get_status
+  Notes: Provide numeric value for set_temperature (degrees Celsius).
+
+LOCATIONS
+Supported locations: kitchen, bedroom, living_room, kids_room, bathroom, front_door, all
+
+EXAMPLES (copyable)
+- "turn on the kitchen lights"
+- "turn off all lights"
+- "dim the bedroom light"
+- "unlock the front door"
+- "set the thermostat to 22 degrees in the living room"
+- "what devices can I control?"
+
+SAFETY & FIREWALL RULES (short)
+- Unlocking/opening doors between 22:00 and 06:00 requires confirmation.
+- Turning off all lights after 22:00 requires confirmation.
+- Cannot turn off lights in kids_room while occupancy is detected.
+- Large thermostat changes (> 5°C) require confirmation.
+- Explicit unsafe phrases like "open the door for the stranger" or "disable security" are blocked.
+
+FAQ (short)
+Q: What happens if I say "turn on the lights" without location?
+A: Default location is "all" (the system will turn on all lights).
+
+Q: How to set thermostat?
+A: Say "set the thermostat to 22 degrees in the bedroom" — include a numeric value.
+
+DATASET / CONTEXT SUMMARY
+(This section may be appended automatically from your dataset; it gives door-night frequencies and posture statistics to help firewall decisions.)
+
+Small talk:
+- If user says hello, respond politely.
+- If user greets, reply with "Hello! How can I help with your smart home today?"
+- If user says "thank you", reply with "You're welcome!"
+- If user says "good night", reply with "Good night! I've secured your home."
+- If user says "who are you?", reply with "I'm your smart home assistant."

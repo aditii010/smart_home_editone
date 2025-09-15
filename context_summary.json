@@ -1,0 +1,97 @@
+{
+  "total_events": 643,
+  "locations": {
+    "kitchen": 186,
+    "bathroom": 160,
+    "bedroom": 75,
+    "toilet": 65,
+    "front": 44,
+    "living room": 39,
+    "front door": 22,
+    "office": 13,
+    "garage": 7,
+    "garden": 7,
+    "pool area": 7,
+    "laundry room": 6,
+    "basement": 4,
+    "patio": 4,
+    "driveway": 2,
+    "dining room": 2
+  },
+  "door_night_pct": {
+    "bathroom": 0.29285714285714287,
+    "bedroom": 0.5294117647058824,
+    "front": 0.06818181818181818,
+    "front door": 0.0,
+    "garage": 0.0,
+    "garden": 0.0,
+    "patio": 0.0,
+    "toilet": 0.2608695652173913
+  },
+  "posture_stats": {
+    "basement": {
+      "standing": 1.0
+    },
+    "bathroom": {
+      "standing": 0.50625,
+      "sitting": 0.30625,
+      "lying": 0.1875
+    },
+    "bedroom": {
+      "standing": 0.6533333333333333,
+      "sitting": 0.26666666666666666,
+      "lying": 0.08
+    },
+    "dining room": {
+      "standing": 1.0
+    },
+    "driveway": {
+      "standing": 1.0
+    },
+    "front": {
+      "lying": 0.4318181818181818,
+      "standing": 0.38636363636363635,
+      "sitting": 0.18181818181818182
+    },
+    "front door": {
+      "standing": 1.0
+    },
+    "garage": {
+      "standing": 1.0
+    },
+    "garden": {
+      "standing": 1.0
+    },
+    "kitchen": {
+      "standing": 0.5645161290322581,
+      "sitting": 0.23655913978494625,
+      "lying": 0.1989247311827957
+    },
+    "laundry room": {
+      "standing": 1.0
+    },
+    "living room": {
+      "sitting": 0.717948717948718,
+      "standing": 0.28205128205128205
+    },
+    "office": {
+      "sitting": 0.5384615384615384,
+      "standing": 0.46153846153846156
+    },
+    "patio": {
+      "standing": 1.0
+    },
+    "pool area": {
+      "standing": 1.0
+    },
+    "toilet": {
+      "sitting": 0.36923076923076925,
+      "lying": 0.3230769230769231,
+      "standing": 0.3076923076923077
+    }
+  },
+  "heuristics": {
+    "door_night_threshold_require_confirm": 0.15,
+    "thermostat_max_delta": 5.0
+  }
+}

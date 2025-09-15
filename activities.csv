@@ -1,0 +1,645 @@
+Start time,Location,Time of a day,Object,Posture,Duration,Activity
+12:22:46 AM,Bedroom,Night,Hall-Bedroom door,Sitting,33086,go to bed
+9:37:17 AM,Bathroom,Morning,Hall-Bathroom door,Sitting,45,use toilet
+9:49:23 AM,Kitchen,Morning,Plates cupboard,Standing,245,prepare Breakfast
+10:02:28 AM,Toilet,Morning,Hall-Toilet door,Sitting,614,take shower
+10:19:06 AM,Front,Morning,Frontdoor,Standing,23792,leave house
+4:58:45 PM,Kitchen,Afternoon,Fridge,Lying,71,store groceries
+5:00:31 PM,Bathroom,Afternoon,Hall-Bathroom door,Lying,63,use toilet
+5:54:55 PM,Kitchen,Afternoon,Fridge,Sitting,63,get drink
+6:31:54 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,104,use toilet
+7:40:26 PM,Kitchen,Evening,Groceries Cupboard,Sitting,2552,prepare Dinner
+8:23:12 PM,Kitchen,Evening,Fridge,Sitting,23,get drink
+9:51:29 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,67,use toilet
+9:55:32 PM,Kitchen,Evening,Plates cupboard,Standing,216,get snack
+11:21:15 PM,Bedroom,Evening,Hall-Bedroom door,Sitting,50745,go to bed
+11:28:30 PM,Bathroom,Evening,Hall-Bathroom door,Lying,44,use toilet
+12:39:24 AM,Toilet,Night,Hall-Toilet door,Sitting,16,use toilet
+3:13:40 AM,Bathroom,Night,Hall-Bathroom door,Standing,61,use toilet
+8:35:59 AM,Bedroom,Morning,Hall-Bedroom door,Standing,39,use toilet
+9:15:40 AM,Bedroom,Morning,Hall-Bedroom door,Lying,200,use toilet
+9:26:42 AM,Kitchen,Morning,Plates cupboard,Lying,147,prepare Breakfast
+9:48:07 AM,Toilet,Morning,Hall-Toilet door,Lying,649,take shower
+10:05:59 AM,Front,Morning,Frontdoor,Sitting,37701,leave house
+9:02:34 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,88,use toilet
+9:39:23 PM,Kitchen,Evening,Fridge,Standing,49,get drink
+10:56:00 PM,Bathroom,Evening,Hall-Bathroom door,Standing,171,use toilet
+11:01:33 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,54045,go to bed
+5:29:11 AM,Bathroom,Night,Hall-Bathroom door,Sitting,75,use toilet
+8:01:22 AM,Kitchen,Morning,Plates cupboard,Sitting,96,prepare Breakfast
+8:13:55 AM,Bathroom,Morning,Hall-Bathroom door,Standing,132,use toilet
+8:16:45 AM,Toilet,Morning,Hall-Toilet door,Standing,635,take shower
+8:34:25 AM,Front,Morning,Frontdoor,Lying,37478,leave house
+6:59:55 PM,Kitchen,Evening,Groceries Cupboard,Sitting,1153,prepare Dinner
+7:19:52 PM,Kitchen,Evening,Fridge,Standing,19,get drink
+11:03:23 PM,Bathroom,Evening,Hall-Bathroom door,Standing,137,use toilet
+12:11:06 AM,Bathroom,Night,Hall-Bathroom door,Sitting,173,use toilet
+12:16:16 AM,Toilet,Night,Hall-Toilet door,Lying,34338,go to bed
+7:06:27 AM,Bathroom,Morning,Hall-Bathroom door,Standing,58,use toilet
+9:48:55 AM,Bedroom,Morning,Hall-Bedroom door,Standing,38,use toilet
+9:49:59 AM,Kitchen,Morning,Plates cupboard,Standing,108,prepare Breakfast
+10:35:25 AM,Bathroom,Morning,Hall-Bathroom door,Sitting,145,use toilet
+10:38:00 AM,Toilet,Morning,Hall-Toilet door,Lying,682,take shower
+10:58:02 AM,Front,Morning,Frontdoor,Standing,27415,leave house
+6:35:21 PM,Kitchen,Evening,Fridge,Standing,148,get snack
+6:48:01 PM,Bathroom,Evening,Hall-Bathroom door,Lying,51,use toilet
+6:53:27 PM,Front,Evening,Frontdoor,Lying,9723,leave house
+9:40:40 PM,Bathroom,Evening,Hall-Bathroom door,Standing,102,use toilet
+10:20:57 PM,Kitchen,Evening,Groceries Cupboard,Lying,26,get snack
+11:23:35 PM,Toilet,Evening,Hall-Toilet door,Sitting,51,use toilet
+11:24:41 PM,Toilet,Evening,Hall-Toilet door,Lying,47033,go to bed
+8:03:13 AM,Bathroom,Morning,Hall-Bathroom door,Sitting,70,use toilet
+10:22:47 AM,Kitchen,Morning,Plates cupboard,Lying,242,prepare Breakfast
+10:30:02 AM,Bathroom,Morning,Hall-Bathroom door,Standing,35,use toilet
+10:30:56 AM,Toilet,Morning,Hall-Toilet door,Sitting,589,take shower
+10:48:43 AM,Front,Morning,Frontdoor,Lying,26991,leave house
+6:41:13 PM,Front,Evening,Frontdoor,Sitting,2446,leave house
+7:24:05 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,61,use toilet
+7:44:50 PM,Kitchen,Evening,Fridge,Lying,4506,prepare Dinner
+10:03:07 PM,Front,Evening,Frontdoor,Standing,8710,leave house
+8:37:06 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,36,use toilet
+8:57:26 PM,Kitchen,Evening,Freezer,Lying,241,get snack
+9:57:57 PM,Bathroom,Evening,Hall-Bathroom door,Standing,315,use toilet
+10:03:52 PM,Bedroom,Evening,Hall-Bedroom door,Standing,47632,go to bed
+8:50:25 AM,Bathroom,Morning,Hall-Bathroom door,Standing,108,use toilet
+9:01:33 AM,Kitchen,Morning,Plates cupboard,Sitting,105,prepare Breakfast
+9:17:14 AM,Toilet,Morning,Hall-Toilet door,Standing,918,take shower
+9:44:52 AM,Front,Morning,Frontdoor,Standing,2209,leave house
+9:10:38 AM,Bathroom,Morning,Hall-Bathroom door,Sitting,55,use toilet
+9:15:44 AM,Bedroom,Morning,Hall-Bedroom door,Sitting,32669,leave house
+6:20:30 PM,Bathroom,Evening,Hall-Bathroom door,Lying,178,use toilet
+6:30:26 PM,Front,Evening,Frontdoor,Standing,18800,leave house
+11:52:12 PM,Kitchen,Evening,Fridge,Standing,36,get drink
+12:01:19 AM,Bathroom,Night,Hall-Bathroom door,Standing,206,use toilet
+12:20:27 AM,Bathroom,Night,Hall-Bathroom door,Standing,66,use toilet
+12:21:43 AM,Bedroom,Night,Hall-Bedroom door,Standing,32805,go to bed
+6:00:13 AM,Bathroom,Morning,Hall-Bathroom door,Standing,55,use toilet
+9:28:50 AM,Bathroom,Morning,Hall-Bathroom door,Standing,48,use toilet
+9:29:55 AM,Kitchen,Morning,Plates cupboard,Lying,96,prepare Breakfast
+9:45:37 AM,Toilet,Morning,Hall-Toilet door,Sitting,490,take shower
+10:11:38 AM,Bedroom,Morning,Hall-Bedroom door,Standing,34630,leave house
+7:51:29 PM,Kitchen,Evening,Freezer,Lying,2131,prepare Dinner
+8:13:15 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,81,use toilet
+11:07:02 PM,Bathroom,Evening,Hall-Bathroom door,Lying,79,use toilet
+11:32:47 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,32,use toilet
+11:33:38 PM,Toilet,Evening,ToiletFlush,Lying,53657,go to bed
+4:38:02 AM,Bathroom,Night,Hall-Bathroom door,Sitting,54,use toilet
+8:39:35 AM,Bathroom,Morning,Hall-Bathroom door,Lying,43,use toilet
+9:04:05 AM,Kitchen,Morning,Fridge,Sitting,351,prepare Breakfast
+9:38:48 AM,Bathroom,Morning,Hall-Bathroom door,Standing,264,use toilet
+10:23:14 AM,Toilet,Morning,Hall-Toilet door,Standing,470,take shower
+10:37:28 AM,Front,Morning,Frontdoor,Sitting,25440,leave house
+5:46:01 PM,Kitchen,Afternoon,Fridge,Lying,28,get drink
+6:52:41 PM,Bathroom,Evening,Hall-Bathroom door,Lying,74,use toilet
+6:54:04 PM,Kitchen,Evening,Groceries Cupboard,Standing,2669,prepare Dinner
+7:40:03 PM,Kitchen,Evening,Fridge,Lying,23,get drink
+9:34:41 PM,Kitchen,Evening,Groceries Cupboard,Sitting,164,get snack
+9:37:34 PM,Kitchen,Evening,Cups cupboard,Lying,23,get drink
+10:44:15 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,178,use toilet
+11:17:37 PM,Bathroom,Evening,Hall-Bathroom door,Standing,48,use toilet
+11:18:34 PM,Bedroom,Evening,Hall-Bedroom door,Sitting,52774,go to bed
+6:59:52 AM,Bathroom,Morning,Hall-Bathroom door,Standing,48,use toilet
+8:44:09 AM,Bathroom,Morning,Hall-Bathroom door,Standing,68,use toilet
+8:49:12 AM,Kitchen,Morning,Fridge,Standing,41,get drink
+8:50:11 AM,Kitchen,Morning,Plates cupboard,Sitting,94,prepare Breakfast
+9:07:38 AM,Toilet,Morning,Hall-Toilet door,Lying,543,take shower
+9:28:59 AM,Front,Morning,Frontdoor,Standing,30053,leave house
+1:11:53 AM,Kitchen,Night,Cups cupboard,Sitting,50,get drink
+3:21:30 AM,Toilet,Night,Hall-Toilet door,Sitting,103,use toilet
+3:26:01 AM,Bedroom,Night,Hall-Bedroom door,Standing,17666,go to bed
+8:20:49 AM,Bathroom,Morning,Hall-Bathroom door,Lying,63,use toilet
+8:21:54 AM,Kitchen,Morning,Cups cupboard,Standing,59,get drink
+8:33:07 AM,Bathroom,Morning,Hall-Bathroom door,Standing,181,use toilet
+10:00:24 AM,Bathroom,Morning,Hall-Bathroom door,Standing,87,use toilet
+10:02:21 AM,Bedroom,Morning,Hall-Bedroom door,Sitting,1428,go to bed
+10:26:21 AM,Kitchen,Morning,Dishwasher,Lying,193,prepare Breakfast
+11:12:22 AM,Bathroom,Morning,Hall-Bathroom door,Sitting,186,use toilet
+11:15:43 AM,Toilet,Morning,Hall-Toilet door,Standing,528,take shower
+11:35:57 AM,Front,Morning,Frontdoor,Lying,18992,leave house
+6:21:27 AM,Bedroom,Morning,Hall-Bedroom door,Standing,7993,go to bed
+8:35:04 AM,Bathroom,Morning,Hall-Bathroom door,Lying,58,use toilet
+8:49:48 AM,Bathroom,Morning,Hall-Bathroom door,Standing,130,use toilet
+9:25:58 AM,Kitchen,Morning,Plates cupboard,Standing,86,prepare Breakfast
+9:46:55 AM,Toilet,Morning,Hall-Toilet door,Sitting,658,take shower
+10:28:59 AM,Front,Morning,Frontdoor,Lying,32098,leave house
+7:24:50 PM,Bathroom,Evening,Hall-Bathroom door,Standing,55,use toilet
+7:33:36 PM,Kitchen,Evening,Fridge,Lying,2226,prepare Dinner
+8:10:53 PM,Kitchen,Evening,Fridge,Lying,31,get drink
+8:52:59 PM,Toilet,Evening,ToiletFlush,Lying,122,use toilet
+9:31:58 PM,Kitchen,Evening,Freezer,Sitting,176,get drink
+10:03:18 PM,Toilet,Evening,ToiletFlush,Standing,43,use toilet
+10:05:36 PM,Bedroom,Evening,Hall-Bedroom door,Standing,48112,go to bed
+6:51:36 AM,Bedroom,Morning,Hall-Bedroom door,Sitting,86,use toilet
+9:00:48 AM,Toilet,Morning,ToiletFlush,Standing,88,use toilet
+9:15:39 AM,Toilet,Morning,Hall-Toilet door,Standing,165,use toilet
+9:18:39 AM,Toilet,Morning,ToiletFlush,Standing,627,take shower
+9:33:30 AM,Front,Morning,Frontdoor,Lying,30261,leave house
+5:58:06 PM,Kitchen,Afternoon,Freezer,Standing,885,prepare Dinner
+6:16:03 PM,Kitchen,Evening,Cups cupboard,Standing,27,get drink
+6:29:55 PM,Toilet,Evening,Hall-Toilet door,Lying,49,use toilet
+6:34:58 PM,Front,Evening,Frontdoor,Lying,7647,leave house
+8:48:10 PM,Kitchen,Evening,Fridge,Lying,305,get drink
+9:13:48 PM,Kitchen,Evening,Fridge,Lying,25,get drink
+9:51:58 PM,Toilet,Evening,ToiletFlush,Sitting,67,use toilet
+9:53:31 PM,Bedroom,Evening,Hall-Bedroom door,Sitting,47526,go to bed
+3:04:57 AM,Toilet,Night,ToiletFlush,Sitting,56,use toilet
+8:41:34 AM,Toilet,Morning,ToiletFlush,Standing,85,use toilet
+9:48:38 AM,Kitchen,Morning,Fridge,Sitting,222,prepare Breakfast
+9:59:25 AM,Kitchen,Morning,Cups cupboard,Lying,27,get drink
+11:02:09 AM,Toilet,Morning,ToiletFlush,Lying,145,use toilet
+11:09:40 AM,Front,Morning,Frontdoor,Sitting,4318,leave house
+12:41:17 PM,Toilet,Afternoon,Hall-Toilet door,Standing,348,take shower
+12:53:38 AM,Front,Night,Frontdoor,Lying,43222,leave house
+12:54:16 AM,Kitchen,Night,Freezer,Lying,115,get snack
+1:18:35 AM,Toilet,Night,Hall-Toilet door,Sitting,171,use toilet
+1:23:57 AM,Toilet,Night,Hall-Toilet door,Standing,25094,go to bed
+6:28:01 AM,Toilet,Morning,ToiletFlush,Sitting,69,use toilet
+8:22:18 AM,Toilet,Morning,ToiletFlush,Standing,44,use toilet
+9:19:47 AM,Kitchen,Morning,Plates cupboard,Sitting,89,prepare Breakfast
+9:40:53 AM,Toilet,Morning,Hall-Toilet door,Standing,420,take shower
+9:57:30 AM,Front,Morning,Frontdoor,Lying,28392,leave house
+5:53:11 PM,Bathroom,Afternoon,Hall-Bathroom door,Lying,61,use toilet
+6:39:18 PM,Kitchen,Evening,Groceries Cupboard,Sitting,48,get snack
+8:31:24 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,120,use toilet
+8:34:14 PM,Front,Evening,Frontdoor,Lying,71772,leave house
+12:38:13 AM,Bathroom,Night,Hall-Bathroom door,Lying,58,use toilet
+12:45:01 AM,Bedroom,Night,Hall-Bedroom door,Lying,29628,go to bed
+5:29:09 AM,Bathroom,Night,Hall-Bathroom door,Sitting,864,use toilet
+9:12:51 AM,Bathroom,Morning,Hall-Bathroom door,Lying,82,use toilet
+9:15:01 AM,Kitchen,Morning,Plates cupboard,Sitting,195,prepare Breakfast
+9:57:12 AM,Bathroom,Morning,Hall-Bathroom door,Sitting,219,use toilet
+10:31:08 AM,Toilet,Morning,Hall-Toilet door,Sitting,658,take shower
+10:48:53 AM,Front,Morning,Frontdoor,Lying,23085,leave house
+5:13:54 PM,Kitchen,Afternoon,Fridge,Lying,93,get snack
+5:19:59 PM,Bathroom,Afternoon,Hall-Bathroom door,Lying,60,use toilet
+5:55:14 PM,Front,Afternoon,Frontdoor,Standing,17997,leave house
+10:55:40 PM,Kitchen,Evening,Plates cupboard,Standing,138,get snack
+11:04:21 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,55,use toilet
+11:57:06 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,61,use toilet
+11:59:37 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,50773,go to bed
+4:06:50 AM,Bedroom,Night,Hall-Bedroom door,Lying,63,use toilet
+8:59:43 AM,Bathroom,Morning,Hall-Bathroom door,Standing,49,use toilet
+10:07:07 AM,Bathroom,Morning,Hall-Bathroom door,Sitting,141,use toilet
+10:09:42 AM,Kitchen,Morning,Fridge,Sitting,137,prepare Breakfast
+10:40:17 AM,Bathroom,Morning,Hall-Bathroom door,Lying,87,use toilet
+12:36:19 PM,Bathroom,Afternoon,Hall-Bathroom door,Lying,59,use toilet
+1:41:35 PM,Kitchen,Afternoon,Plates cupboard,Sitting,98,get snack
+2:30:31 PM,Bathroom,Afternoon,Hall-Bathroom door,Standing,91,use toilet
+2:34:51 PM,Toilet,Afternoon,Hall-Toilet door,Sitting,696,take shower
+3:46:47 PM,Kitchen,Afternoon,Cups cupboard,Lying,13,get snack
+6:15:12 PM,Kitchen,Evening,Groceries Cupboard,Sitting,1474,prepare Dinner
+6:55:11 PM,Kitchen,Evening,Cups cupboard,Standing,35,get drink
+7:44:01 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,59,use toilet
+7:45:13 PM,Front,Evening,Frontdoor,Standing,69320,leave house
+12:31:55 AM,Kitchen,Night,Groceries Cupboard,Lying,294,get snack
+1:30:31 AM,Bathroom,Night,Hall-Bathroom door,Standing,36,use toilet
+1:31:28 AM,Bedroom,Night,Hall-Bedroom door,Lying,27285,go to bed
+9:06:31 AM,Bathroom,Morning,Hall-Bathroom door,Lying,70,use toilet
+9:19:59 AM,Bathroom,Morning,Hall-Bathroom door,Sitting,192,use toilet
+10:03:54 AM,Kitchen,Morning,Plates cupboard,Sitting,103,prepare Breakfast
+10:42:03 AM,Toilet,Morning,Hall-Toilet door,Lying,476,take shower
+11:27:50 AM,Front,Morning,Frontdoor,Lying,36581,leave house
+9:38:05 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,60,use toilet
+10:02:53 PM,Bedroom,Evening,Hall-Bedroom door,Sitting,49953,go to bed
+10:47:14 PM,Bathroom,Evening,Hall-Bathroom door,Standing,47,use toilet
+5:44:24 AM,Bathroom,Night,Hall-Bathroom door,Lying,46,use toilet
+8:31:58 AM,Kitchen,Morning,Plates cupboard,Standing,74,prepare Breakfast
+8:54:13 AM,Toilet,Morning,Hall-Toilet door,Lying,703,take shower
+9:09:17 AM,Bathroom,Morning,Hall-Bathroom door,Lying,302,use toilet
+9:16:18 AM,Front,Morning,Frontdoor,Sitting,35733,leave house
+7:13:03 PM,Bathroom,Evening,Hall-Bathroom door,Standing,68,use toilet
+7:43:51 PM,Kitchen,Evening,Pans Cupboard,Standing,1906,prepare Dinner
+8:04:57 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,125,use toilet
+8:17:08 PM,Kitchen,Evening,Cups cupboard,Lying,9,get drink
+9:33:42 PM,Kitchen,Evening,Freezer,Standing,16,get drink
+10:26:16 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,54,use toilet
+12:48:12 AM,Bathroom,Night,Hall-Bathroom door,Sitting,56,use toilet
+12:51:48 AM,Bedroom,Night,Hall-Bedroom door,Lying,25003,go to bed
+6:23:14 AM,Bathroom,Morning,Hall-Bathroom door,Sitting,45,use toilet
+8:15:09 AM,Bathroom,Morning,Hall-Bathroom door,Standing,253,use toilet
+8:20:32 AM,Kitchen,Morning,Plates cupboard,Sitting,189,prepare Breakfast
+8:39:32 AM,Toilet,Morning,Hall-Toilet door,Lying,778,take shower
+9:14:21 AM,Front,Morning,Frontdoor,Standing,31567,leave house
+6:01:00 PM,Toilet,Evening,ToiletFlush,Sitting,438,use toilet
+6:21:36 PM,Toilet,Evening,ToiletFlush,Sitting,126,use toilet
+6:25:00 PM,Front,Evening,Frontdoor,Standing,18896,leave house
+12:40:32 AM,Bathroom,Night,Hall-Bathroom door,Lying,95,use toilet
+12:44:11 AM,Bedroom,Night,Hall-Bedroom door,Sitting,28753,go to bed
+7:51:00 AM,Bathroom,Morning,Hall-Bathroom door,Lying,58,use toilet
+9:38:13 AM,Kitchen,Morning,Fridge,Lying,368,prepare Breakfast
+9:48:29 AM,Bathroom,Morning,Hall-Bathroom door,Standing,41,use toilet
+9:49:25 AM,Toilet,Morning,ToiletFlush,Standing,658,take shower
+10:08:27 AM,Front,Morning,Frontdoor,Lying,25610,leave house
+5:19:28 PM,Toilet,Afternoon,Hall-Toilet door,Lying,156,take shower
+5:26:40 PM,Front,Afternoon,Frontdoor,Lying,10407,leave house
+8:46:18 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,164,use toilet
+9:49:09 PM,Toilet,Evening,Hall-Toilet door,Lying,157,use toilet
+9:54:30 PM,Bedroom,Evening,Hall-Bedroom door,Sitting,48207,go to bed
+12:35:07 AM,Bathroom,Night,Hall-Bathroom door,Lying,54,use toilet
+6:57:54 AM,Toilet,Morning,ToiletFlush,Sitting,45,use toilet
+8:45:42 AM,Toilet,Morning,ToiletFlush,Standing,84,use toilet
+9:11:55 AM,Kitchen,Morning,Plates cupboard,Standing,199,prepare Breakfast
+9:42:26 AM,Toilet,Morning,Hall-Toilet door,Sitting,476,take shower
+9:56:47 AM,Front,Morning,Frontdoor,Standing,46374,leave house
+12:22:46 AM,Bedroom,Night,Hall-Bedroom door,Sitting,33086,go to bed
+9:37:17 AM,Bathroom,Morning,Hall-Bathroom door,Sitting,45,use toilet
+9:49:23 AM,Kitchen,Morning,Plates cupboard,Standing,245,prepare Breakfast
+10:02:28 AM,Toilet,Morning,Hall-Toilet door,Sitting,614,take shower
+10:19:06 AM,Front,Morning,Frontdoor,Standing,23792,leave house
+4:58:45 PM,Kitchen,Afternoon,Fridge,Lying,71,store groceries
+5:00:31 PM,Bathroom,Afternoon,Hall-Bathroom door,Lying,63,use toilet
+5:54:55 PM,Kitchen,Afternoon,Fridge,Sitting,63,get drink
+6:31:54 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,104,use toilet
+7:40:26 PM,Kitchen,Evening,Groceries Cupboard,Sitting,2552,prepare Dinner
+8:23:12 PM,Kitchen,Evening,Fridge,Sitting,23,get drink
+9:51:29 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,67,use toilet
+9:55:32 PM,Kitchen,Evening,Plates cupboard,Standing,216,get snack
+11:21:15 PM,Bedroom,Evening,Hall-Bedroom door,Sitting,50745,go to bed
+11:28:30 PM,Bathroom,Evening,Hall-Bathroom door,Lying,44,use toilet
+12:39:24 AM,Toilet,Night,Hall-Toilet door,Sitting,16,use toilet
+3:13:40 AM,Bathroom,Night,Hall-Bathroom door,Standing,61,use toilet
+8:35:59 AM,Bedroom,Morning,Hall-Bedroom door,Standing,39,use toilet
+9:15:40 AM,Bedroom,Morning,Hall-Bedroom door,Lying,200,use toilet
+9:26:42 AM,Kitchen,Morning,Plates cupboard,Lying,147,prepare Breakfast
+9:48:07 AM,Toilet,Morning,Hall-Toilet door,Lying,649,take shower
+10:05:59 AM,Front,Morning,Frontdoor,Sitting,37701,leave house
+9:02:34 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,88,use toilet
+9:39:23 PM,Kitchen,Evening,Fridge,Standing,49,get drink
+10:56:00 PM,Bathroom,Evening,Hall-Bathroom door,Standing,171,use toilet
+11:01:33 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,54045,go to bed
+5:29:11 AM,Bathroom,Night,Hall-Bathroom door,Sitting,75,use toilet
+8:01:22 AM,Kitchen,Morning,Plates cupboard,Sitting,96,prepare Breakfast
+8:13:55 AM,Bathroom,Morning,Hall-Bathroom door,Standing,132,use toilet
+8:16:45 AM,Toilet,Morning,Hall-Toilet door,Standing,635,take shower
+8:34:25 AM,Front,Morning,Frontdoor,Lying,37478,leave house
+6:59:55 PM,Kitchen,Evening,Groceries Cupboard,Sitting,1153,prepare Dinner
+7:19:52 PM,Kitchen,Evening,Fridge,Standing,19,get drink
+11:03:23 PM,Bathroom,Evening,Hall-Bathroom door,Standing,137,use toilet
+12:11:06 AM,Bathroom,Night,Hall-Bathroom door,Sitting,173,use toilet
+12:16:16 AM,Toilet,Night,Hall-Toilet door,Lying,34338,go to bed
+7:06:27 AM,Bathroom,Morning,Hall-Bathroom door,Standing,58,use toilet
+9:48:55 AM,Bedroom,Morning,Hall-Bedroom door,Standing,38,use toilet
+9:49:59 AM,Kitchen,Morning,Plates cupboard,Standing,108,prepare Breakfast
+10:35:25 AM,Bathroom,Morning,Hall-Bathroom door,Sitting,145,use toilet
+10:38:00 AM,Toilet,Morning,Hall-Toilet door,Lying,682,take shower
+10:58:02 AM,Front,Morning,Frontdoor,Standing,27415,leave house
+6:35:21 PM,Kitchen,Evening,Fridge,Standing,148,get snack
+6:48:01 PM,Bathroom,Evening,Hall-Bathroom door,Lying,51,use toilet
+6:53:27 PM,Front,Evening,Frontdoor,Lying,9723,leave house
+9:40:40 PM,Bathroom,Evening,Hall-Bathroom door,Standing,102,use toilet
+10:20:57 PM,Kitchen,Evening,Groceries Cupboard,Lying,26,get snack
+11:23:35 PM,Toilet,Evening,Hall-Toilet door,Sitting,51,use toilet
+11:24:41 PM,Toilet,Evening,Hall-Toilet door,Lying,47033,go to bed
+8:03:13 AM,Bathroom,Morning,Hall-Bathroom door,Sitting,70,use toilet
+10:22:47 AM,Kitchen,Morning,Plates cupboard,Lying,242,prepare Breakfast
+10:30:02 AM,Bathroom,Morning,Hall-Bathroom door,Standing,35,use toilet
+10:30:56 AM,Toilet,Morning,Hall-Toilet door,Sitting,589,take shower
+10:48:43 AM,Front,Morning,Frontdoor,Lying,26991,leave house
+6:41:13 PM,Front,Evening,Frontdoor,Sitting,2446,leave house
+7:24:05 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,61,use toilet
+7:44:50 PM,Kitchen,Evening,Fridge,Lying,4506,prepare Dinner
+10:03:07 PM,Front,Evening,Frontdoor,Standing,8710,leave house
+8:37:06 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,36,use toilet
+8:57:26 PM,Kitchen,Evening,Freezer,Lying,241,get snack
+9:57:57 PM,Bathroom,Evening,Hall-Bathroom door,Standing,315,use toilet
+10:03:52 PM,Bedroom,Evening,Hall-Bedroom door,Standing,47632,go to bed
+8:50:25 AM,Bathroom,Morning,Hall-Bathroom door,Standing,108,use toilet
+9:01:33 AM,Kitchen,Morning,Plates cupboard,Sitting,105,prepare Breakfast
+9:17:14 AM,Toilet,Morning,Hall-Toilet door,Standing,918,take shower
+9:44:52 AM,Front,Morning,Frontdoor,Standing,2209,leave house
+9:10:38 AM,Bathroom,Morning,Hall-Bathroom door,Sitting,55,use toilet
+9:15:44 AM,Bedroom,Morning,Hall-Bedroom door,Sitting,32669,leave house
+6:20:30 PM,Bathroom,Evening,Hall-Bathroom door,Lying,178,use toilet
+6:30:26 PM,Front,Evening,Frontdoor,Standing,18800,leave house
+11:52:12 PM,Kitchen,Evening,Fridge,Standing,36,get drink
+12:01:19 AM,Bathroom,Night,Hall-Bathroom door,Standing,206,use toilet
+12:20:27 AM,Bathroom,Night,Hall-Bathroom door,Standing,66,use toilet
+12:21:43 AM,Bedroom,Night,Hall-Bedroom door,Standing,32805,go to bed
+6:00:13 AM,Bathroom,Morning,Hall-Bathroom door,Standing,55,use toilet
+9:28:50 AM,Bathroom,Morning,Hall-Bathroom door,Standing,48,use toilet
+9:29:55 AM,Kitchen,Morning,Plates cupboard,Lying,96,prepare Breakfast
+9:45:37 AM,Toilet,Morning,Hall-Toilet door,Sitting,490,take shower
+10:11:38 AM,Bedroom,Morning,Hall-Bedroom door,Standing,34630,leave house
+7:51:29 PM,Kitchen,Evening,Freezer,Lying,2131,prepare Dinner
+8:13:15 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,81,use toilet
+11:07:02 PM,Bathroom,Evening,Hall-Bathroom door,Lying,79,use toilet
+11:32:47 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,32,use toilet
+11:33:38 PM,Toilet,Evening,ToiletFlush,Lying,53657,go to bed
+4:38:02 AM,Bathroom,Night,Hall-Bathroom door,Sitting,54,use toilet
+8:39:35 AM,Bathroom,Morning,Hall-Bathroom door,Lying,43,use toilet
+9:04:05 AM,Kitchen,Morning,Fridge,Sitting,351,prepare Breakfast
+9:38:48 AM,Bathroom,Morning,Hall-Bathroom door,Standing,264,use toilet
+10:23:14 AM,Toilet,Morning,Hall-Toilet door,Standing,470,take shower
+10:37:28 AM,Front,Morning,Frontdoor,Sitting,25440,leave house
+5:46:01 PM,Kitchen,Afternoon,Fridge,Lying,28,get drink
+6:52:41 PM,Bathroom,Evening,Hall-Bathroom door,Lying,74,use toilet
+6:54:04 PM,Kitchen,Evening,Groceries Cupboard,Standing,2669,prepare Dinner
+7:40:03 PM,Kitchen,Evening,Fridge,Lying,23,get drink
+9:34:41 PM,Kitchen,Evening,Groceries Cupboard,Sitting,164,get snack
+9:37:34 PM,Kitchen,Evening,Cups cupboard,Lying,23,get drink
+10:44:15 PM,Bathroom,Evening,Hall-Bathroom door,Sitting,178,use toilet
+11:17:37 PM,Bathroom,Evening,Hall-Bathroom door,Standing,48,use toilet
+11:18:34 PM,Bedroom,Evening,Hall-Bedroom door,Sitting,52774,go to bed
+6:59:52 AM,Bathroom,Morning,Hall-Bathroom door,Standing,48,use toilet
+8:44:09 AM,Bathroom,Morning,Hall-Bathroom door,Standing,68,use toilet
+8:49:12 AM,Kitchen,Morning,Fridge,Standing,41,get drink
+8:50:11 AM,Kitchen,Morning,Plates cupboard,Sitting,94,prepare Breakfast
+9:07:38 AM,Toilet,Morning,Hall-Toilet door,Lying,543,take shower
+9:28:59 AM,Front,Morning,Frontdoor,Standing,30053,leave house
+1:11:53 AM,Kitchen,Night,Cups cupboard,Sitting,50,get drink
+3:21:30 AM,Toilet,Night,Hall-Toilet door,Sitting,103,use toilet
+3:26:01 AM,Bedroom,Night,Hall-Bedroom door,Standing,17666,go to bed
+8:20:49 AM,Bathroom,Morning,Hall-Bathroom door,Lying,63,use toilet
+8:21:54 AM,Kitchen,Morning,Cups cupboard,Standing,59,get drink
+8:33:07 AM,Bathroom,Morning,Hall-Bathroom door,Standing,181,use toilet
+10:00:24 AM,Bathroom,Morning,Hall-Bathroom door,Standing,87,use toilet
+10:02:21 AM,Bedroom,Morning,Hall-Bedroom door,Sitting,1428,go to bed
+10:26:21 AM,Kitchen,Morning,Dishwasher,Lying,193,prepare Breakfast
+11:12:22 AM,Bathroom,Morning,Hall-Bathroom door,Sitting,186,use toilet
+11:15:43 AM,Toilet,Morning,Hall-Toilet door,Standing,528,take shower
+11:35:57 AM,Front,Morning,Frontdoor,Lying,18992,leave house
+6:21:27 AM,Bedroom,Morning,Hall-Bedroom door,Standing,7993,go to bed
+8:35:04 AM,Bathroom,Morning,Hall-Bathroom door,Lying,58,use toilet
+8:49:48 AM,Bathroom,Morning,Hall-Bathroom door,Standing,130,use toilet
+9:25:58 AM,Kitchen,Morning,Plates cupboard,Standing,86,prepare Breakfast
+9:46:55 AM,Toilet,Morning,Hall-Toilet door,Sitting,658,take shower
+10:28:59 AM,Front,Morning,Frontdoor,Lying,32098,leave house
+7:24:50 PM,Bathroom,Evening,Hall-Bathroom door,Standing,55,use toilet
+7:33:36 PM,Kitchen,Evening,Fridge,Lying,2226,prepare Dinner
+8:10:53 PM,Kitchen,Evening,Fridge,Lying,31,get drink
+8:52:59 PM,Toilet,Evening,ToiletFlush,Lying,122,use toilet
+9:31:58 PM,Kitchen,Evening,Freezer,Sitting,176,get drink
+10:03:18 PM,Toilet,Evening,ToiletFlush,Standing,43,use toilet
+10:05:36 PM,Bedroom,Evening,Hall-Bedroom door,Standing,48112,go to bed
+10:02:21 AM,Bedroom,Morning,Hall-Bedroom door,Standing,1428,go to bed
+6:15:23 AM,Bedroom,Morning,Hall-Bedroom door,Standing,45,wake up
+6:16:08 AM,Bathroom,Morning,Hall-Bathroom door,Standing,180,use toilet
+6:19:08 AM,Bathroom,Morning,Shower,Standing,720,take shower
+6:31:08 AM,Bedroom,Morning,Wardrobe,Standing,420,get dressed
+6:38:08 AM,Kitchen,Morning,Coffee maker,Standing,240,make coffee
+6:42:08 AM,Kitchen,Morning,Toaster,Standing,180,make toast
+6:45:08 AM,Kitchen,Morning,Fridge,Standing,60,get milk
+6:46:08 AM,Kitchen,Morning,Dining table,Sitting,900,eat breakfast
+7:01:08 AM,Kitchen,Morning,Sink,Standing,120,wash dishes
+7:03:08 AM,Living room,Morning,Couch,Sitting,600,watch news
+7:13:08 AM,Bedroom,Morning,Bed,Standing,180,make bed
+7:16:08 AM,Front door,Morning,Front door lock,Standing,30,leave house
+10:45:30 AM,Front door,Morning,Front door lock,Standing,30,arrive home
+10:46:00 AM,Kitchen,Morning,Fridge,Standing,90,store groceries
+10:47:30 AM,Kitchen,Morning,Pantry,Standing,240,organize groceries
+10:51:30 AM,Living room,Morning,Couch,Sitting,1800,relax
+11:21:30 AM,Kitchen,Late morning,Microwave,Standing,300,heat lunch
+11:26:30 AM,Kitchen,Late morning,Dining table,Sitting,1200,eat lunch
+11:46:30 AM,Kitchen,Late morning,Sink,Standing,180,wash dishes
+11:49:30 AM,Living room,Late morning,TV,Sitting,3600,watch TV
+12:49:30 PM,Bathroom,Afternoon,Hall-Bathroom door,Standing,240,use toilet
+12:53:30 PM,Office,Afternoon,Desk,Sitting,7200,work
+2:53:30 PM,Kitchen,Afternoon,Coffee maker,Standing,180,make coffee
+2:56:30 PM,Office,Afternoon,Desk,Sitting,5400,work
+4:26:30 PM,Kitchen,Afternoon,Fridge,Standing,120,get snack
+4:28:30 PM,Living room,Afternoon,Couch,Sitting,1800,rest
+4:58:30 PM,Kitchen,Afternoon,Stove,Standing,1800,cook dinner
+5:28:30 PM,Kitchen,Afternoon,Dining table,Sitting,1800,eat dinner
+5:58:30 PM,Kitchen,Afternoon,Sink,Standing,600,clean kitchen
+6:08:30 PM,Living room,Evening,Couch,Sitting,2400,watch TV
+6:48:30 PM,Bathroom,Evening,Hall-Bathroom door,Standing,300,use toilet
+6:53:30 PM,Living room,Evening,Couch,Sitting,3600,watch movie
+7:53:30 PM,Kitchen,Evening,Fridge,Standing,60,get drink
+7:54:30 PM,Living room,Evening,Couch,Sitting,1800,continue movie
+8:24:30 PM,Bathroom,Evening,Hall-Bathroom door,Standing,180,use toilet
+8:27:30 PM,Living room,Evening,Couch,Sitting,2400,watch TV
+9:07:30 PM,Kitchen,Evening,Sink,Standing,240,get water
+9:11:30 PM,Living room,Evening,Couch,Sitting,1800,relax
+9:41:30 PM,Bedroom,Evening,Bed,Sitting,1200,read book
+10:01:30 PM,Bathroom,Evening,Sink,Standing,600,brush teeth
+10:11:30 PM,Bedroom,Evening,Hall-Bedroom door,Standing,28800,go to bed
+6:30:15 AM,Bedroom,Morning,Hall-Bedroom door,Standing,60,wake up
+6:31:15 AM,Bathroom,Morning,Hall-Bathroom door,Standing,240,use toilet
+6:35:15 AM,Bathroom,Morning,Shower,Standing,900,take shower
+6:50:15 AM,Bedroom,Morning,Wardrobe,Standing,480,get dressed
+6:58:15 AM,Kitchen,Morning,Coffee maker,Standing,300,make coffee
+7:03:15 AM,Kitchen,Morning,Stove,Standing,600,cook breakfast
+7:13:15 AM,Kitchen,Morning,Dining table,Sitting,1200,eat breakfast
+7:33:15 AM,Kitchen,Morning,Sink,Standing,300,wash dishes
+7:38:15 AM,Living room,Morning,Couch,Sitting,420,check phone
+7:45:15 AM,Bedroom,Morning,Bed,Standing,240,make bed
+7:49:15 AM,Front door,Morning,Front door lock,Standing,30,leave house
+6:15:45 PM,Front door,Evening,Front door lock,Standing,30,arrive home
+6:16:15 PM,Kitchen,Evening,Fridge,Standing,180,check groceries
+6:19:15 PM,Living room,Evening,Couch,Sitting,600,rest
+6:29:15 PM,Kitchen,Evening,Stove,Standing,2400,cook dinner
+7:09:15 PM,Kitchen,Evening,Dining table,Sitting,1800,eat dinner
+7:39:15 PM,Kitchen,Evening,Sink,Standing,900,clean kitchen
+7:54:15 PM,Living room,Evening,TV,Sitting,3600,watch TV
+8:54:15 PM,Kitchen,Evening,Fridge,Standing,120,get dessert
+8:56:15 PM,Living room,Evening,Couch,Sitting,1800,eat dessert
+9:26:15 PM,Bathroom,Evening,Hall-Bathroom door,Standing,300,use toilet
+9:31:15 PM,Living room,Evening,Couch,Sitting,2400,watch show
+10:11:15 PM,Bedroom,Evening,Bed,Sitting,900,prepare for bed
+10:26:15 PM,Bathroom,Evening,Sink,Standing,480,brush teeth
+10:34:15 PM,Bedroom,Evening,Hall-Bedroom door,Standing,27600,go to bed
+7:00:00 AM,Bedroom,Morning,Hall-Bedroom door,Standing,90,wake up
+7:01:30 AM,Bathroom,Morning,Hall-Bathroom door,Standing,300,use toilet
+7:06:30 AM,Kitchen,Morning,Coffee maker,Standing,240,make coffee
+7:10:30 AM,Kitchen,Morning,Fridge,Standing,120,get breakfast
+7:12:30 AM,Kitchen,Morning,Dining table,Sitting,600,eat breakfast
+7:22:30 AM,Kitchen,Morning,Sink,Standing,180,wash dishes
+7:25:30 AM,Bathroom,Morning,Shower,Standing,1200,take shower
+7:45:30 AM,Bedroom,Morning,Wardrobe,Standing,600,get dressed
+7:55:30 AM,Front door,Morning,Front door lock,Standing,30,leave house
+12:30:45 PM,Front door,Afternoon,Front door lock,Standing,30,arrive home
+12:31:15 PM,Kitchen,Afternoon,Microwave,Standing,180,heat lunch
+12:34:15 PM,Kitchen,Afternoon,Dining table,Sitting,900,eat lunch
+12:49:15 PM,Kitchen,Afternoon,Sink,Standing,120,wash dishes
+12:51:15 PM,Living room,Afternoon,Couch,Sitting,2400,rest
+1:31:15 PM,Office,Afternoon,Desk,Sitting,10800,work from home
+4:31:15 PM,Kitchen,Afternoon,Coffee maker,Standing,240,make coffee
+4:35:15 PM,Office,Afternoon,Desk,Sitting,3600,work
+5:35:15 PM,Kitchen,Afternoon,Fridge,Standing,180,prepare dinner
+5:38:15 PM,Kitchen,Afternoon,Stove,Standing,1800,cook dinner
+6:08:15 PM,Kitchen,Afternoon,Dining table,Sitting,1500,eat dinner
+6:33:15 PM,Kitchen,Afternoon,Sink,Standing,600,clean up
+6:43:15 PM,Living room,Evening,TV,Sitting,4200,watch TV
+7:53:15 PM,Bathroom,Evening,Hall-Bathroom door,Standing,240,use toilet
+7:57:15 PM,Living room,Evening,Couch,Sitting,2400,continue TV
+8:37:15 PM,Kitchen,Evening,Fridge,Standing,90,get snack
+8:38:45 PM,Living room,Evening,Couch,Sitting,3600,relax
+9:38:45 PM,Bedroom,Evening,Bed,Sitting,1800,read
+10:08:45 PM,Bathroom,Evening,Sink,Standing,420,nighttime routine
+10:15:45 PM,Bedroom,Evening,Hall-Bedroom door,Standing,32400,go to bed
+6:45:30 AM,Bedroom,Morning,Hall-Bedroom door,Standing,120,wake up
+6:47:30 AM,Bathroom,Morning,Hall-Bathroom door,Standing,360,use toilet
+6:53:30 AM,Bathroom,Morning,Shower,Standing,1080,take shower
+7:11:30 AM,Bedroom,Morning,Wardrobe,Standing,720,get dressed
+7:23:30 AM,Kitchen,Morning,Coffee maker,Standing,360,make coffee
+7:29:30 AM,Kitchen,Morning,Toaster,Standing,240,make toast
+7:33:30 AM,Kitchen,Morning,Dining table,Sitting,1200,eat breakfast
+7:53:30 AM,Kitchen,Morning,Sink,Standing,300,wash dishes
+7:58:30 AM,Living room,Morning,Couch,Sitting,420,check news
+8:05:30 AM,Front door,Morning,Front door lock,Standing,30,leave house
+5:45:20 PM,Front door,Evening,Front door lock,Standing,30,arrive home
+5:45:50 PM,Kitchen,Evening,Fridge,Standing,240,check ingredients
+5:49:50 PM,Kitchen,Evening,Stove,Standing,2100,cook dinner
+6:24:50 PM,Kitchen,Evening,Dining table,Sitting,1800,eat dinner
+6:54:50 PM,Kitchen,Evening,Dishwasher,Standing,180,load dishwasher
+6:57:50 PM,Living room,Evening,TV,Sitting,3000,watch news
+7:47:50 PM,Kitchen,Evening,Fridge,Standing,60,get drink
+7:48:50 PM,Living room,Evening,Couch,Sitting,3600,watch movie
+8:48:50 PM,Bathroom,Evening,Hall-Bathroom door,Standing,300,use toilet
+8:53:50 PM,Living room,Evening,Couch,Sitting,2400,continue movie
+9:33:50 PM,Kitchen,Evening,Fridge,Standing,90,get snack
+9:35:20 PM,Living room,Evening,Couch,Sitting,1800,eat and relax
+10:05:20 PM,Bedroom,Evening,Bed,Sitting,600,wind down
+10:15:20 PM,Bathroom,Evening,Sink,Standing,600,brush teeth
+10:25:20 PM,Bedroom,Evening,Hall-Bedroom door,Standing,25200,go to bed
+5:25:45 AM,Bedroom,Night,Hall-Bedroom door,Standing,180,use toilet
+5:28:45 AM,Bathroom,Night,Hall-Bathroom door,Standing,120,use toilet
+5:30:45 AM,Bedroom,Night,Hall-Bedroom door,Standing,3900,return to bed
+6:25:45 AM,Bedroom,Morning,Hall-Bedroom door,Standing,180,wake up
+6:28:45 AM,Kitchen,Morning,Coffee maker,Standing,300,make coffee
+6:33:45 AM,Kitchen,Morning,Fridge,Standing,120,get breakfast
+6:35:45 AM,Kitchen,Morning,Dining table,Sitting,900,eat breakfast
+6:50:45 AM,Kitchen,Morning,Sink,Standing,180,wash dishes
+6:53:45 AM,Bathroom,Morning,Shower,Standing,1500,take shower
+7:18:45 AM,Bedroom,Morning,Wardrobe,Standing,600,get dressed
+7:28:45 AM,Front door,Morning,Front door lock,Standing,30,leave house
+11:15:30 AM,Front door,Late morning,Front door lock,Standing,30,arrive home
+11:16:00 AM,Kitchen,Late morning,Microwave,Standing,240,heat food
+11:20:00 AM,Kitchen,Late morning,Dining table,Sitting,1200,eat lunch
+11:40:00 AM,Living room,Late morning,Couch,Sitting,1800,rest
+12:10:00 PM,Office,Afternoon,Desk,Sitting,7200,work
+2:10:00 PM,Kitchen,Afternoon,Coffee maker,Standing,180,make coffee
+2:13:00 PM,Office,Afternoon,Desk,Sitting,5400,work
+3:43:00 PM,Kitchen,Afternoon,Fridge,Standing,120,get snack
+3:45:00 PM,Living room,Afternoon,Couch,Sitting,900,break
+4:00:00 PM,Office,Afternoon,Desk,Sitting,3600,work
+5:00:00 PM,Kitchen,Evening,Stove,Standing,1800,cook dinner
+5:30:00 PM,Kitchen,Evening,Dining table,Sitting,1500,eat dinner
+5:55:00 PM,Kitchen,Evening,Sink,Standing,600,clean kitchen
+6:05:00 PM,Living room,Evening,TV,Sitting,3600,watch TV
+7:05:00 PM,Bathroom,Evening,Hall-Bathroom door,Standing,240,use toilet
+7:09:00 PM,Living room,Evening,Couch,Sitting,2400,continue TV
+7:49:00 PM,Kitchen,Evening,Fridge,Standing,120,get dessert
+7:51:00 PM,Living room,Evening,Couch,Sitting,3600,relax
+8:51:00 PM,Bedroom,Evening,Bed,Sitting,1200,read
+9:11:00 PM,Bathroom,Evening,Sink,Standing,480,nighttime routine
+9:19:00 PM,Bedroom,Evening,Hall-Bedroom door,Standing,33060,go to bed
+6:20:15 AM,Bedroom,Morning,Smart alarm clock,Standing,60,wake up
+6:21:15 AM,Bedroom,Morning,Ceiling fan,Standing,30,turn on fan
+6:21:45 AM,Bedroom,Morning,Window blinds,Standing,45,open blinds
+6:22:30 AM,Bathroom,Morning,Smart mirror,Standing,120,check appearance
+6:24:30 AM,Bathroom,Morning,Electric toothbrush,Standing,180,brush teeth
+6:27:30 AM,Bathroom,Morning,Hair dryer,Standing,300,dry hair
+6:32:30 AM,Bedroom,Morning,Smart thermostat,Standing,30,adjust temperature
+6:33:00 AM,Kitchen,Morning,Smart kettle,Standing,240,boil water
+6:37:00 AM,Kitchen,Morning,Air purifier,Standing,15,turn on purifier
+6:37:15 AM,Kitchen,Morning,Smart oven,Standing,600,bake muffins
+6:47:15 AM,Kitchen,Morning,Garbage disposal,Standing,30,dispose waste
+6:47:45 AM,Kitchen,Morning,Smart speaker,Standing,15,play music
+6:48:00 AM,Kitchen,Morning,Robot vacuum,Standing,30,start cleaning
+6:48:30 AM,Living room,Morning,Smart TV,Standing,45,turn on news
+6:49:15 AM,Living room,Morning,Sound system,Standing,30,adjust volume
+6:49:45 AM,Living room,Morning,Smart curtains,Standing,60,open curtains
+6:50:45 AM,Living room,Morning,Air conditioning,Standing,30,set temperature
+6:51:15 AM,Front door,Morning,Smart doorbell,Standing,15,check notifications
+6:51:30 AM,Front door,Morning,Security camera,Standing,30,review footage
+6:52:00 AM,Garage,Morning,Garage door opener,Standing,45,open garage
+6:52:45 AM,Garage,Morning,Car charger,Standing,60,plug in car
+6:53:45 AM,Garden,Morning,Sprinkler system,Standing,90,water plants
+6:55:15 AM,Garden,Morning,Security lights,Standing,30,turn off lights
+6:55:45 AM,Kitchen,Morning,Water filter,Standing,60,fill water bottle
+6:56:45 AM,Kitchen,Morning,Smart fridge display,Standing,45,check grocery list
+6:57:30 AM,Kitchen,Morning,Wine cooler,Standing,30,check temperature
+6:58:00 AM,Living room,Morning,Fireplace,Standing,45,turn off fireplace
+6:58:45 AM,Office,Morning,Smart desk lamp,Standing,30,turn on lamp
+6:59:15 AM,Office,Morning,Printer,Standing,120,print documents
+7:01:15 AM,Office,Morning,Shredder,Standing,60,shred papers
+7:02:15 AM,Bedroom,Morning,Humidifier,Standing,30,adjust humidity
+7:02:45 AM,Bedroom,Morning,White noise machine,Standing,15,turn off machine
+7:03:00 AM,Bathroom,Morning,Heated towel rack,Standing,30,get towel
+7:03:30 AM,Bathroom,Morning,Smart scale,Standing,45,weigh self
+7:04:15 AM,Bathroom,Morning,Medicine cabinet,Standing,60,take vitamins
+7:05:15 AM,Kitchen,Morning,Ice maker,Standing,45,get ice
+7:06:00 AM,Kitchen,Morning,Spice rack,Standing,90,organize spices
+7:07:30 AM,Kitchen,Morning,Cutting board,Standing,180,prep vegetables
+7:10:30 AM,Kitchen,Morning,Blender,Standing,120,make smoothie
+7:12:30 AM,Kitchen,Morning,Food processor,Standing,150,chop ingredients
+7:15:00 AM,Kitchen,Morning,Pressure cooker,Standing,300,cook meal
+7:20:00 AM,Laundry room,Morning,Washing machine,Standing,180,start laundry
+7:23:00 AM,Laundry room,Morning,Dryer,Standing,60,check clothes
+7:24:00 AM,Laundry room,Morning,Iron,Standing,300,iron shirts
+7:29:00 AM,Basement,Morning,Dehumidifier,Standing,45,check settings
+7:29:45 AM,Basement,Morning,Sump pump,Standing,60,inspect pump
+7:30:45 AM,Garage,Morning,Tool cabinet,Standing,120,get tools
+7:32:45 AM,Garage,Morning,Workbench,Standing,300,fix items
+7:37:45 AM,Pool area,Morning,Pool heater,Standing,90,adjust temperature
+7:39:15 AM,Pool area,Morning,Pool pump,Standing,60,check operation
+7:40:15 AM,Pool area,Morning,Hot tub,Standing,120,test water
+7:42:15 AM,Garden,Morning,Garden hose,Standing,180,water garden
+7:45:15 AM,Garden,Morning,Outdoor speakers,Standing,45,play music
+7:46:00 AM,Patio,Morning,Patio heater,Standing,60,turn on heater
+7:47:00 AM,Patio,Morning,Outdoor grill,Standing,300,prepare grill
+7:52:00 AM,Front door,Morning,Package box,Standing,45,check deliveries
+7:52:45 AM,Front door,Morning,Mailbox,Standing,60,get mail
+7:53:45 AM,Driveway,Morning,Motion sensors,Standing,30,test sensors
+7:54:15 AM,Front door,Morning,Smart lock,Standing,45,lock door
+7:55:00 AM,Front door,Morning,Intercom,Standing,30,test system
+3:30:20 PM,Front door,Afternoon,Smart lock,Standing,30,unlock door
+3:30:50 PM,Kitchen,Afternoon,Smart fridge display,Standing,60,check messages
+3:31:50 PM,Kitchen,Afternoon,Wine cooler,Standing,45,select wine
+3:32:35 PM,Living room,Afternoon,Smart TV,Standing,30,turn on TV
+3:33:05 PM,Living room,Afternoon,Sound system,Standing,45,play playlist
+3:33:50 PM,Living room,Afternoon,Air conditioning,Standing,30,adjust temp
+3:34:20 PM,Office,Afternoon,Smart desk lamp,Standing,15,turn on lamp
+3:34:35 PM,Office,Afternoon,Printer,Standing,180,print reports
+3:37:35 PM,Kitchen,Afternoon,Smart oven,Standing,1200,bake bread
+3:57:35 PM,Kitchen,Afternoon,Food processor,Standing,240,make sauce
+4:01:35 PM,Kitchen,Afternoon,Pressure cooker,Standing,1800,cook stew
+4:31:35 PM,Laundry room,Afternoon,Washing machine,Standing,120,switch loads
+4:33:35 PM,Laundry room,Afternoon,Dryer,Standing,60,start dryer
+4:34:35 PM,Basement,Afternoon,Dehumidifier,Standing,30,empty water
+4:35:05 PM,Pool area,Afternoon,Pool pump,Standing,90,clean filter
+4:36:35 PM,Garden,Afternoon,Sprinkler system,Standing,120,adjust zones
+4:38:35 PM,Patio,Afternoon,Outdoor grill,Standing,1200,grill dinner
+4:58:35 PM,Kitchen,Afternoon,Blender,Standing,120,make drinks
+5:00:35 PM,Kitchen,Afternoon,Ice maker,Standing,60,get ice
+5:01:35 PM,Dining room,Afternoon,Smart chandelier,Standing,30,dim lights
+5:02:05 PM,Dining room,Afternoon,Smart curtains,Standing,45,close curtains
+8:15:40 PM,Living room,Evening,Fireplace,Standing,120,start fire
+8:17:40 PM,Living room,Evening,Smart speaker,Standing,30,play ambient sounds
+8:18:10 PM,Bedroom,Evening,Humidifier,Standing,45,turn on humidifier
+8:18:55 PM,Bedroom,Evening,White noise machine,Standing,30,set timer
+8:19:25 PM,Bathroom,Evening,Heated towel rack,Standing,30,warm towels
+8:19:55 PM,Kitchen,Evening,Water filter,Standing,90,change filter
+8:21:25 PM,Kitchen,Evening,Garbage disposal,Standing,45,clean disposal
+8:22:10 PM,Garden,Evening,Security lights,Standing,60,turn on lights
+8:23:10 PM,Garden,Evening,Outdoor speakers,Standing,45,play evening music
+8:23:55 PM,Pool area,Evening,Hot tub,Standing,180,prepare hot tub
+8:26:55 PM,Pool area,Evening,Pool heater,Standing,60,set night temperature
+8:27:55 PM,Garage,Evening,Car charger,Standing,45,check charge status
+8:28:40 PM,Front door,Evening,Security camera,Standing,90,review day footage
+8:30:10 PM,Front door,Evening,Smart doorbell,Standing,30,check alerts
+8:30:40 PM,Driveway,Evening,Motion sensors,Standing,45,adjust sensitivity
+8:31:25 PM,Living room,Evening,Robot vacuum,Standing,30,schedule cleaning
+8:31:55 PM,Office,Evening,Shredder,Standing,120,shred documents
+8:33:55 PM,Bedroom,Evening,Smart thermostat,Standing,45,set night temperature
+8:34:40 PM,Bedroom,Evening,Smart alarm clock,Standing,60,set morning alarm
+8:35:40 PM,Bathroom,Evening,Smart mirror,Standing,120,skincare routine
+8:37:40 PM,Bathroom,Evening,Smart scale,Standing,30,evening weigh-in
+8:38:10 PM,Bathroom,Evening,Medicine cabinet,Standing,90,take evening meds
+8:39:40 PM,Bedroom,Evening,Window blinds,Standing,60,close blinds
+8:40:40 PM,Bedroom,Evening,Ceiling fan,Standing,30,adjust fan speed
+10:45:30 PM,Kitchen,Evening,Smart kettle,Standing,180,make tea
+10:48:30 PM,Kitchen,Evening,Spice rack,Standing,60,organize herbs
+10:49:30 PM,Laundry room,Evening,Iron,Standing,240,iron tomorrow clothes
+10:53:30 PM,Garage,Evening,Tool cabinet,Standing,90,put away tools
+10:55:00 PM,Garage,Evening,Workbench,Standing,120,clean workspace
+10:57:00 PM,Basement,Evening,Sump pump,Standing,60,check evening status
+10:58:00 PM,Pool area,Evening,Pool pump,Standing,45,turn off pump
+10:58:45 PM,Patio,Evening,Patio heater,Standing,30,turn off heater
+10:59:15 PM,Front door,Evening,Package box,Standing,30,secure box
+10:59:45 PM,Front door,Evening,Mailbox,Standing,45,check evening mail
+11:00:30 PM,Front door,Evening,Intercom,Standing,30,test night mode
+11:01:00 PM,Kitchen,Evening,Air purifier,Standing,30,set night mode
+11:01:30 PM,Bedroom,Evening,Hall-Bedroom door,Standing,25200,go to bed
+
