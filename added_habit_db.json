@@ -1,0 +1,82 @@
+{
+  "_metadata": {
+    "version": "1.0",
+    "description": "User habit database for RAG-based routine detection and suggestions",
+    "created": "2025-01-01",
+    "last_updated": "2025-01-01"
+  },
+  "users": {
+    "default_user": {
+      "habits": [
+        {
+          "habit_id": "morning_coffee",
+          "activity": "turn_on_coffee_machine",
+          "context": {
+            "time_range": ["06:30", "08:00"],
+            "location": "kitchen", 
+            "frequency": 0.9,
+            "last_seen": "2025-01-15"
+          },
+          "description": "Morning coffee routine",
+          "strength": 0.85
+        },
+        {
+          "habit_id": "evening_tv",
+          "activity": "turn_on_smart_tv", 
+          "context": {
+            "time_range": ["19:00", "21:30"],
+            "location": "living_room",
+            "frequency": 0.8,
+            "last_seen": "2025-01-14"
+          },
+          "description": "Evening TV watching",
+          "strength": 0.75
+        },
+        {
+          "habit_id": "bedtime_lights",
+          "activity": "turn_off_lights",
+          "context": {
+            "time_range": ["22:00", "23:30"],
+            "location": "all",
+            "frequency": 0.95,
+            "last_seen": "2025-01-15"
+          },
+          "description": "Turn off lights before bed",
+          "strength": 0.92
+        },
+        {
+          "habit_id": "weekend_cleaning",
+          "activity": "start_robot_vacuum",
+          "context": {
+            "time_range": ["09:00", "11:00"],
+            "location": "living_room",
+            "frequency": 0.7,
+            "day_type": "weekend",
+            "last_seen": "2025-01-12"
+          },
+          "description": "Weekend house cleaning",
+          "strength": 0.68
+        }
+      ],
+      "preferences": {
+        "Netflix": {"strength": 0.8, "time_contexts": ["17:00-21:00"]},
+        "Prime": {"strength": 0.3, "time_contexts": ["14:00-16:00"]},
+        "thermostat_comfort": {"min_temp": 20, "max_temp": 24, "preferred": 22}
+      },
+      "deviations": [
+        {
+          "date": "2025-01-14",
+          "expected_habit": "evening_tv",
+          "actual_action": "turn_on_prime_video",
+          "handled": false,
+          "suggestion_made": "You usually watch Netflix at 7 PM. You started Prime instead — update preference?"
+        }
+      ]
+    }
+  },
+  "global_patterns": {
+    "common_morning_actions": ["turn_on_coffee_machine", "turn_on_bathroom_light", "check_weather"],
+    "common_evening_actions": ["turn_on_smart_tv", "set_thermostat_comfort", "turn_on_living_room_light"],
+    "safety_habits": ["lock_front_door", "turn_off_stove", "set_security_system"]
+  }
+}
